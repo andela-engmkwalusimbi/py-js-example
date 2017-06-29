@@ -1,0 +1,2 @@
+node: cd client && npm install && npm test
+python: cd server && gunicorn app:app
